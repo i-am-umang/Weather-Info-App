@@ -1,14 +1,12 @@
 🌤️ Weather Info App
 A simple web-based weather application that displays real-time weather information using HTML, CSS, and JavaScript.
 
-📁 Project Structure
+## 📁 Project Files
 
-Weather-Info-App/
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling the app
-├── script.js        # JavaScript for API calls and DOM updates
-└── README.md        # Project documentation
+- **index.html** – The homepage of the app  
+- **style.css** – Handles layout, colors, and responsive design  
+- **script.js** – Connects to the weather API and updates the UI  
+- **README.md** – Contains project overview and usage instructions
 
 
 ⚙️ Project Setup
